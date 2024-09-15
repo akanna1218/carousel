@@ -1,6 +1,6 @@
-import image1 from '../Styles/assets/Ellipse 179457.png';
-import image2 from '../Styles/assets/2.png';
-import image3 from '../Styles/assets/3.jpg';
+import image1 from '../Styles/Assets/Ellipse 179457.png';
+import image2 from '../Styles/Assets/2.png';
+import image3 from '../Styles/Assets/3.jpg';
 
 const data = [
     {
